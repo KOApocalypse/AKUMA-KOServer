@@ -1,4 +1,11 @@
-AKUMA-KOServer
-==============
+KOServer
+========
 
-Files Akuma-KOserver Date 12-12-2013
+* Knight Online Server Project
+* Project owner is @twostars
+
+* Project Developers ;
+  - AKUMA  / Source Code [ Email : akuma@xskip.net ]
+  - Eridia / Source Code
+  - bodom61 / LUA Scripts
+  - katanatr / Database
